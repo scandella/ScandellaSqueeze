@@ -1,5 +1,5 @@
 {
-    "name": "scandella/ScandellaSqueeze",
+    "name": "scandella/craft-squeeze",
     "description": "Zip one or multiple craft assets on the fly for frontend user to download.",
     "type": "craft-plugin",
     "version": "1.0.0",
