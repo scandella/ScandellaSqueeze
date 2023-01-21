@@ -1,5 +1,5 @@
 {
-    "name": "olivierbon/craft-squeeze",
+    "name": "scandella/ScandellaSqueeze",
     "description": "Zip one or multiple craft assets on the fly for frontend user to download.",
     "type": "craft-plugin",
     "version": "1.1.2",
@@ -13,13 +13,13 @@
         "assets"
     ],
     "support": {
-        "docs": "https://github.com/olivierbon/craft-squeeze",
-        "issues": "https://github.com/olivierbon/craft-squeeze"
+        "docs": "https://github.com/scandella/ScandellaSqueeze",
+        "issues": "https://github.com/scandella/ScandellaSqueeze"
     },
     "license": "proprietary",
     "authors": [
         {
-            "name": "Olivier Bon",
+            "name": "Scandella",
             "homepage": "http://olivierbon.com",
             "email": "help@olivierbon.com"
         }
