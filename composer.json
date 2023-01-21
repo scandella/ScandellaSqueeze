@@ -1,0 +1,41 @@
+{
+    "name": "olivierbon/craft-squeeze",
+    "description": "Zip one or multiple craft assets on the fly for frontend user to download.",
+    "type": "craft-plugin",
+    "version": "1.1.2",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "squeeze",
+        "zip",
+        "assets"
+    ],
+    "support": {
+        "docs": "https://github.com/olivierbon/craft-squeeze",
+        "issues": "https://github.com/olivierbon/craft-squeeze"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Olivier Bon",
+            "homepage": "http://olivierbon.com",
+            "email": "help@olivierbon.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "craftcms/cms": "^3.0.0-RC1"
+    },
+    "autoload": {
+        "psr-4": {
+          "olivierbon\\squeeze\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "Squeeze",
+        "handle": "squeeze",
+        "class": "olivierbon\\squeeze\\Squeeze"
+    }
+}
