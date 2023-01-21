@@ -2,7 +2,7 @@
     "name": "scandella/ScandellaSqueeze",
     "description": "Zip one or multiple craft assets on the fly for frontend user to download.",
     "type": "craft-plugin",
-    "version": "1.1.2",
+    "version": "1.0.0",
     "keywords": [
         "craft",
         "cms",
