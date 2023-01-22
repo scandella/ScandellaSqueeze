@@ -38,5 +38,7 @@ To trigger download via url you can use:
 ## Credits
 
 This plugin is a clone of [Olivier Bon's plugin](https://github.com/olivierbon/craft-squeeze) just modified to work in Craft 4.
+
 Icon by Yazmin Alanis from the Noun Project
+
 This plugin is mostly a port of [Bob's](https://github.com/boboldehampsink/zipassets)
