@@ -1,14 +1,23 @@
-# Squeeze plugin for Craft CMS 3.x
+# Squeeze plugin for Craft CMS 4.x
 
 Zip one or multiple craft assets on the fly for frontend user to download.
 
 ## Requirements
 
-This plugin requires Craft CMS 3.0.0-RC11 or later.
+This plugin requires Craft CMS 4.x.
 
 ## Installation
-
-Go to the Plugin Store in your project’s Control Panel and search for “Squeeze”. Then click on the “Install” button in its modal window.
+Add these lines to your composer.json file:
+```
+"repositories": [
+        {"type": "composer", "url": "https://repo.repman.io"},
+        {"packagist": false}
+    ]
+```
+Then:
+```
+composer require scandella/craft-squeeze
+```
 
 ## Usage
 
@@ -28,5 +37,6 @@ To trigger download via url you can use:
 ```
 ## Credits
 
+This plugin is a clone of [Olivier Bon's plugin](https://github.com/olivierbon/craft-squeeze) just modified to work in Craft 4.
 Icon by Yazmin Alanis from the Noun Project
 This plugin is mostly a port of [Bob's](https://github.com/boboldehampsink/zipassets)
