@@ -23,7 +23,7 @@ class DownloadController extends Controller
     /**
      * @inheritdoc
      */
-    public $allowAnonymous = true;
+    public array|bool|int $allowAnonymous = true;
 
     // Public Methods
     // =========================================================================
