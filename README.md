@@ -7,14 +7,7 @@ Zip one or multiple craft assets on the fly for frontend user to download.
 This plugin requires Craft CMS 4.x.
 
 ## Installation
-Add these lines to your composer.json file:
-```
-"repositories": [
-        {"type": "composer", "url": "https://repo.repman.io"},
-        {"packagist": false}
-    ]
-```
-Then:
+
 ```
 composer require scandella/craft-squeeze
 ```
