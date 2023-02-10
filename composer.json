@@ -2,7 +2,7 @@
     "name": "scandella/craft-squeeze",
     "description": "Zip one or multiple craft assets on the fly for frontend user to download.",
     "type": "craft-plugin",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "keywords": [
         "craft",
         "cms",
@@ -20,8 +20,8 @@
     "authors": [
         {
             "name": "Scandella",
-            "homepage": "http://olivierbon.com",
-            "email": "help@olivierbon.com"
+            "homepage": "http://scandella.fr",
+            "email": "cedric@scandella.fr"
         }
     ],
     "require": {
